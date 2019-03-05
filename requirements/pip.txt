@@ -14,6 +14,7 @@ djangorestframework==3.9.1
 django-filter==2.1.0
 
 drf-flex-fields==0.3.5
+drf-extensions==0.4.0
 
 django-vanilla-views==1.0.6
 jsonfield==2.0.2
